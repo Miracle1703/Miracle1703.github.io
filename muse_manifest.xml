@@ -1,10 +1,10 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="rose_long.ru" resolutions="1x" timestamp="1516796152888">
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="rose_long.ru" resolutions="1x" timestamp="1516796782686">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="rose-long-support.css" crc="3988243666" ref="rose-long-support"/>
     <file name="rose-long-access.css" crc="79867997" ref="rose-long-access"/>
     <file name="rose-long-delivery.css" crc="505583869" ref="rose-long-delivery"/>
-    <file name="rose-long_black.css" crc="132707103" ref="rose-long_black"/>
+    <file name="rose-long_black.css" crc="3856813899" ref="rose-long_black"/>
     <file name="rose-long-return-policy.css" crc="4075486635" ref="rose-long-return-policy"/>
     <file name="index.css" crc="4141409067" ref="index"/>
     <file name="rose-long-men.css" crc="277448033" ref="rose-long-men"/>
@@ -146,5 +146,5 @@
   <file name="rose-long-delivery.html" crc="4242423326" seo="true" mt="1516726538883" redirect="true"/>
   <file name="rose-long-return-policy.html" crc="242715921" seo="true" mt="1516726545978" redirect="true"/>
   <file name="rose-long-support.html" crc="391912697" seo="true" mt="1516726681102" redirect="true"/>
-  <file name="rose-long_black.html" crc="581385" seo="true" mt="1516796128259" redirect="true"/>
+  <file name="rose-long_black.html" crc="246572776" seo="true" mt="1516796762499" redirect="true"/>
 </manifest>
